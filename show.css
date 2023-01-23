@@ -1,0 +1,161 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 20px;
+    color: white;
+    background-color: rgb(42,42,68);
+    height: 100px;
+}
+.nav .left{
+    display: flex;
+    margin-top: 10px;    
+}
+.left img{
+    width: 22%;
+    padding: ;
+    
+}
+.left input{
+    margin-inline: 11px;
+    width: 420px;
+    height: 33px;
+    border: none;
+    outline: none;
+    text-align: center;
+    margin-top: 16px;
+    border-radius: 2px;
+}
+.nav .right{
+    display: flex;
+    margin-top: 16px;
+}
+.right p{
+    margin-inline: 22px;
+    font-size: 22px;
+}
+.right button{
+    margin-inline: 22px;
+    width: 80px;
+    height: 27px;
+    border: none;
+    border-radius: 2px;
+    background-color: rgb(224, 36, 68);
+    color: white;
+}
+.right i{
+    margin-inline: 22px;
+    font-size: 22px;
+}
+.S-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 9px;
+    background-color: rgb(26,26,48);
+    color: white;
+    
+
+}
+.S-nav .s-left{
+    display: flex;
+    
+}
+.S-nav .s-right{
+    display: flex;
+}
+.S-nav p:hover{
+    color: rgb(247, 20, 58);
+    cursor: pointer;
+    font-weight: 600;
+}
+.s-left p{
+    margin-inline-start: 18px;
+}
+.s-right p{
+    margin-inline-start: 22px;
+}
+.main img{
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 10px;
+    
+}
+.container h2{
+    margin-left: 5%;
+    padding: 22px;    
+}
+.container .card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.card img{
+    width: 18%;
+    margin-block: 15px;
+    border-radius: 10px;
+}
+.banner img {
+    
+    display: flex;
+    justify-content: center;
+    width:90%;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;   
+    
+}
+.premiere{
+    background-color: rgb(43, 49, 72);
+    color: white;
+    padding: 33px;
+    margin-top: 44px;
+}
+
+.containers .card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 11px;  
+    
+
+}
+.footer{
+    background-color: grey;
+    padding: 33px;
+    margin-top: 44px;
+
+}
+.footer img{
+    width: 22%;
+    
+    margin-left: 39%;
+    border-top: 2px solid grey;
+   
+
+}
+.footer .icon{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+    
+
+}
+.icon i{
+    margin-inline: 33px;
+    font-size: 50px;
+    font-size: 36px;
+
+}
+
+
+
+
+
